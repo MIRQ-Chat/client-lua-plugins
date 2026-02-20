@@ -1,0 +1,17 @@
+{
+  "id": "lmstudio-assistant",
+  "name": "LM Studio Assistant",
+  "version": "0.1.0",
+  "entry": "main.lua",
+  "apiVersion": "1.0",
+  "capabilities": [
+    "events",
+    "chat:write",
+    "dm:write",
+    "http:localhost",
+    "memory:local",
+    "skills:local",
+    "mcp:localhost"
+  ],
+  "description": "Guild/DM assistant with local memory, lightweight RAG, skills, and optional MCP bridge."
+}

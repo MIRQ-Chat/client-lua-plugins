@@ -1,0 +1,9 @@
+{
+  "id": "otacon-assistant",
+  "name": "Otacon Assistant",
+  "version": "0.4.0",
+  "entry": "main.lua",
+  "apiVersion": "1.0",
+  "capabilities": ["events", "chat:write", "dm:write", "http:localhost", "memory:local"],
+  "description": "OpenClaw bridge assistant with guild memory, trust controls, and privacy guardrails"
+}
