@@ -48,7 +48,6 @@ Copy-Item -Recurse -Force .\otacon-assistant "$env:LOCALAPPDATA\mirq\plugins\"
 
 ## How MIRQ Uses These Plugins in the Client
 
-Based on `D:\KNS\MIRQ\src\client_hmi` and plugin docs:
 - MIRQ discovers plugin subfolders with `plugin.json`.
 - Manifest fields are validated (`id`, `entry`, `apiVersion`, `capabilities`).
 - Supported API version is `1.x`.
