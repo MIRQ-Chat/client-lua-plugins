@@ -157,12 +157,3 @@ client-lua-plugins/
   otacon-assistant/
   otacon-bridge/
 ```
-
-## References Used
-
-- `D:\KNS\MIRQ\docs\CLIENT_LUA_PLUGIN_SPEC.md`
-- `D:\KNS\MIRQ\docs\OTACON_BRIDGE_RUNBOOK.md`
-- `D:\KNS\MIRQ\docs\OTACON_BRIDGE_API.md`
-- `D:\KNS\MIRQ\landing_page\docs\articles\user-guide\lua-plugins.md`
-- `D:\KNS\MIRQ\src\client_hmi\hmi_window_lua.cpp`
-- `D:\KNS\MIRQ\src\client_hmi\lua_plugin_manager.cpp`
